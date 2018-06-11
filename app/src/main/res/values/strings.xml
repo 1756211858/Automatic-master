@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeChat-master</string>
+    <string name="accessibility_tip">WechatService</string>
+    <string name="accessibility_desc">不存在描述的</string>
+    <string name="content">这是自定义添加好友请求</string>
+    <string name="fly_now">Fly Now</string>
+</resources>
