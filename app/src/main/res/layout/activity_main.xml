@@ -28,7 +28,6 @@
         android:layout_height="40dp"
         android:layout_marginBottom="236dp"
         android:layout_marginTop="24dp"
-        android:background="@color/RefreshColor"
         android:clickable="true"
         android:focusable="true"
         android:gravity="center"
